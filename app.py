@@ -1,3 +1,10 @@
+"""
+TODO: Definir rutas de la app
+TODO: Crear base de datos con SQLAlchemy
+TODO: Definir estructura basica (template: base.html)
+TODO: Definir librerías a utilizar
+"""
+
 from flask import Flask
 from flask_sqlalchemy import SQLAlchemy
 
